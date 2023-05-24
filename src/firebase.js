@@ -17,7 +17,7 @@ const firebaseConfig = {
   //this is for database connection
   const db = firebaseApp.firestore();
 
-
+ 
   const auth = firebase.auth();
 
   const provider = new firebase.auth.GoogleAuthProvider();

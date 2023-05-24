@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "whatsapp-clone-yt-81d31"
-  }
+    "default": "chat-app-75ecb",
+    "dev": "chat-app-75ecb"
+  },
+  "targets": {},
+  "etags": {}
 }
