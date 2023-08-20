@@ -1,5 +1,4 @@
-
-### Realtime-Chat Application
+## Realtime-Chat Application
 
 Discover the seamless world of real-time communication with the Realtime-Chat Application. This modern chat platform, built using React.js, Redux, Material-UI, and Firebase, brings a new level of connectivity to your fingertips.
 
